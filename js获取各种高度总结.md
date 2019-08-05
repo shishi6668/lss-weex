@@ -22,8 +22,8 @@
    相对于父元素的左位移（在元素的包含元素不含滚动条的情况下）：
    obj.offsetLeft;
 3. scroll 滚动系列
-   （可以是document.body或obj等）实际内容的宽度 或 对象滚动的宽度:  offsetWidth
-   （可以是document.body或obj等）实际内容的高度 或 对象滚动的高度:  offsetHeight
+   （可以是document.body或obj等）实际内容的宽度 或 对象滚动的宽度:  scrollWidth
+   （可以是document.body或obj等）实际内容的高度 或 对象滚动的高度:  scrollHeight
    滚动对象侧边卷起的宽度：scrollLeft
    滚动对象上边卷起的高度：scrollTop
    
