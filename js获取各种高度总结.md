@@ -1,6 +1,5 @@
 话不多说，先上图
-<img src="https://images2017.cnblogs.com/blog/1219513/201708/1219513-20170817141747443-425001125.png">
-
+![image](https://images2017.cnblogs.com/blog/1219513/201708/1219513-20170817141747443-425001125.png)
 
 注：上图未标出外边距margin，CSS中的margin属性，与clientWidth、offsetWidth、clientHeight、offsetHeight等均无关
 
