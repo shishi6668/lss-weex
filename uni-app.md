@@ -4,6 +4,7 @@ woc刚刚用typora写的那么多保存失败了，就剩个标题，我tm...
 ## 开发规范
 - 页面文件遵循 Vue 单文件组件 (SFC) 规范
 - 组件标签靠近小程序规范，详见uni-app 组件规范
+如将div标签替换为view，span转text,a转navigator,img转image等。
 - 其他
 
 ## 页面样式与布局
